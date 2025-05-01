@@ -16,7 +16,7 @@ The DSA103 is a self-paced learning course that covers advanced topics in data s
 | Greedy Algorithms| | | |
 
 
-**Duration**: 60 days.
+**Duration**: 65 days.
 
 > Note: download PDF files and open it with Adobe Acrobat for video visualizations to work.
 
