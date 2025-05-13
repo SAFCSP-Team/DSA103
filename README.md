@@ -12,7 +12,7 @@ The DSA103 is a self-paced learning course that covers advanced topics in data s
 | Priority Queue | [Priority Queue Videos](https://vimeo.com/user/228743756/folder/24965207)|[PriorityQueue.pdf](https://github.com/SAFCSP-Team/DSA103/blob/main/content/03.PriorityQueue.pdf) |[Priority Queue Project](https://github.com/SAFCSP-Team/priority-queue-project)| 
 | Divide and Conquer Algorithms | | | |
 | Dynamic Programming Algorithms| | | |
-| Backtracking Algorithms| |[Backtracking.pdf](https://github.com/SAFCSP-Team/DSA103/blob/main/content/06.Backtracking.pdf)|[Backtracking Algorithms Project](https://github.com/SAFCSP-Team/backtracking-algorithms-project)|
+| Backtracking Algorithms| [Backtracking Video](https://vimeo.com/1081832495)|[Backtracking.pdf](https://github.com/SAFCSP-Team/DSA103/blob/main/content/06.Backtracking.pdf)|[Backtracking Algorithms Project](https://github.com/SAFCSP-Team/backtracking-algorithms-project)|
 | Greedy Algorithms| | | |
 
 **Duration**: 65 days.
