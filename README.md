@@ -15,7 +15,7 @@ The DSA103 is a self-paced learning course that covers advanced topics in data s
 | Backtracking Algorithms| [Backtracking Video](https://vimeo.com/1081832495/8e7952bbb6?share=copy)|[Backtracking.pdf](https://github.com/SAFCSP-Team/DSA103/blob/main/content/06.Backtracking.pdf)|[Backtracking Algorithms Project](https://github.com/SAFCSP-Team/backtracking-algorithms-project)|
 | Greedy Algorithms| [Greedy Video](https://vimeo.com/1082083530/ae0c09e93a?share=copy) |[Greedy.pdf](https://github.com/SAFCSP-Team/DSA103/blob/main/content/07.Greedy.pdf) |[Greedy Project](https://github.com/SAFCSP-Team/greedy-project)|
 
-**Duration**: 65 days.
+**Duration**: 30 days.
 
 > Note: download PDF files and open it with Adobe Acrobat for video visualizations to work.
 
