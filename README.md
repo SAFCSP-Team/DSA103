@@ -7,7 +7,7 @@ The DSA103 is a self-paced learning course that covers advanced topics in data s
 
 | Topic | Videos | Book | Projects | 
 |-------|--------|------|----------|
-| Hash Table |[Hash Table Videos](https://vimeo.com/user/228743756/folder/24965193) |[Hash Table.pdf](https://github.com/SAFCSP-Team/DSA103/blob/main/content/01.HashTable%20.pdf) |[Hash Table Project](https://github.com/SAFCSP-Team/hash-table-project) |
+| Hash Table |[01.Hash Table Introduction](https://vimeo.com/1083266846/e3ef55475d?share=copy)  </br> [02.Hash Table Implementation](https://vimeo.com/1083423878/2375ca20ef?share=copy)|[Hash Table.pdf](https://github.com/SAFCSP-Team/DSA103/blob/main/content/01.HashTable%20.pdf) |[Hash Table Project](https://github.com/SAFCSP-Team/hash-table-project) |
 | Heap | [Heap Videos](https://vimeo.com/user/228743756/folder/24965198)| [Heap.pdf](https://github.com/SAFCSP-Team/DSA103/blob/main/content/02.Heap.pdf)| [Heap Project](https://github.com/SAFCSP-Team/heap-project)| 
 | Priority Queue | [Priority Queue Videos](https://vimeo.com/user/228743756/folder/24965207)|[PriorityQueue.pdf](https://github.com/SAFCSP-Team/DSA103/blob/main/content/03.PriorityQueue.pdf) |[Priority Queue Project](https://github.com/SAFCSP-Team/priority-queue-project)| 
 | Divide and Conquer Algorithms | [Divide and Conquer Video](https://vimeo.com/1082079614/143d29986c?share=copy) |[Divide And Conquer.pdf](https://github.com/SAFCSP-Team/DSA103/blob/main/content/DivideandCoquer%20.pdf) |[Divide and Conquer Project](https://github.com/SAFCSP-Team/divide-and-conquer-project)|
