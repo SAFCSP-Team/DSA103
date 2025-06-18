@@ -13,7 +13,7 @@ The DSA103 is a self-paced learning course that covers advanced topics in data s
 | Divide and Conquer Algorithms | [Divide and Conquer Video](https://vimeo.com/1082079614) |[Divide And Conquer.pdf](https://github.com/SAFCSP-Team/DSA103/blob/main/content/DivideandCoquer%20.pdf) |[Divide and Conquer Project](https://github.com/SAFCSP-Team/divide-and-conquer-project)|
 | Dynamic Programming Algorithms| [Dynamic Programming Video](https://vimeo.com/1082163796/adc6b6526a?share=copy)|[Dynamic Programming.pdf](https://github.com/SAFCSP-Team/DSA103/blob/main/content/05.DynamicProgramming.pdf) |[Dynamic Programming Project](https://github.com/SAFCSP-Team/DP-project)|
 | Backtracking Algorithms| [Backtracking Video](https://vimeo.com/1081832495)|[Backtracking.pdf](https://github.com/SAFCSP-Team/DSA103/blob/main/content/06.Backtracking.pdf)|[Backtracking Algorithms Project](https://github.com/SAFCSP-Team/backtracking-algorithms-project)|
-| Greedy Algorithms| [Greedy Video](https://vimeo.com/1082163796/adc6b6526a?share=copy) |[Greedy.pdf](https://github.com/SAFCSP-Team/DSA103/blob/main/content/07.Greedy.pdf) |[Greedy Project](https://github.com/SAFCSP-Team/greedy-project)|
+| Greedy Algorithms| [Greedy Video](https://vimeo.com/1082083530/ae0c09e93a?share=copy) |[Greedy.pdf](https://github.com/SAFCSP-Team/DSA103/blob/main/content/07.Greedy.pdf) |[Greedy Project](https://github.com/SAFCSP-Team/greedy-project)|
 
 **Duration**: 65 days.
 
